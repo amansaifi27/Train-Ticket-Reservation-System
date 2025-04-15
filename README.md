@@ -51,10 +51,10 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Oracle ( SQL )
 
 ### ==== Software And Tools Required ======
-- : Git 
-- : Java JDK 8+ 
-- : Eclipse EE 
-- : Apache Maven 
-- : Tomcat v8.0+
-- : Oracle (SQL) / SQL PLUS 
-- : Oracle SQL Developer 
+-  Git 
+-  Java JDK 8+ 
+-  Eclipse EE 
+-  Apache Maven 
+-  Tomcat v8.0+
+-  Oracle (SQL) / SQL PLUS 
+-  Oracle SQL Developer 
